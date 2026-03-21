@@ -1,3 +1,0 @@
-I am a Computer Science student with knowledge in Python, SQL, and basic Machine Learning.
-I have completed 2 projects including a chatbot and an expense tracker.
-I am familiar with HTML, CSS, and basic data analysis.
