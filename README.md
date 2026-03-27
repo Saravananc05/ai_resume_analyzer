@@ -1,4 +1,4 @@
-AI Resume Analyzer:
+Project name : AI Resume Analyzer
 A GUI-based AI Resume Analyzer built using Python and Tkinter that evaluates resumes based on job-specific skills and provides intelligent feedback.
 
 1)Features
